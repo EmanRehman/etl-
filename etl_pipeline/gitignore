@@ -1,0 +1,8 @@
+
+# .gitignore
+
+*.pyc
+__pycache__/
+etl_pipeline.log
+.env
+config.ini
